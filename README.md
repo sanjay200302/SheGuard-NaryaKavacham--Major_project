@@ -58,7 +58,7 @@ Bluetooth → Smartphone → SMS → Emergency contacts
 - Android Studio (latest version)  
 - Arduino IDE  
 - Android device with Bluetooth  
-- HC‑05/BLE module + Arduino/ESP32 board  
+- Arduino/ESP32 board  
 
 ### Setup
 1. **Clone the repository**
@@ -67,74 +67,79 @@ Bluetooth → Smartphone → SMS → Emergency contacts
    cd Narya-Kavacham
 2. **Android App**
 
-Open in Android Studio
+        Open in Android Studio
 
-Configure permissions for SMS, Bluetooth, and sensors
+        Configure permissions for SMS, Bluetooth, and sensors
 
-Build & run on device
+        Build & run on device
 
 3. **Wearable Band**
 
-Upload firmware via Arduino IDE
+        Upload firmware via Arduino IDE
 
-Pair band with smartphone via Bluetooth
+        Pair band with smartphone via Bluetooth
 
 4. **Emergency Contacts**
 
-Add trusted contacts in the app
+       Add trusted contacts in the app
 
-Test SOS triggers (shake, button, siren)
+       Test SOS triggers (shake, button, siren)
 
 📊 **Results**
-Response Time: 2–4 seconds (vs. 18–25 seconds manual)
+        
+       Response Time: 2–4 seconds (vs. 18–25 seconds manual)
 
-Shake Detection Accuracy: ~92%
+       Shake Detection Accuracy: ~92%
 
-Bluetooth Trigger Reliability: ~95%
+       Bluetooth Trigger Reliability: ~95%
 
-SMS Delivery Success: ~95%
+  SMS Delivery Success: ~95%
 
-Background Monitoring: Continuous, even when app closed
+        Background Monitoring: Continuous, even when app closed
 
 🔮 **Future Enhancements**
-GPS‑based live location sharing
+  
+        GPS‑based live location sharing
 
-Alerts via instant messaging platforms
+        Alerts via instant messaging platforms
 
-AI‑driven threat detection (motion/behavior analysis)
+        AI‑driven threat detection (motion/behavior analysis)
 
-Integration with smartwatches and consumer wearables
+        Integration with smartwatches and consumer wearables
 
-Cross‑platform support (iOS)
+        Cross‑platform support (iOS)
 
-Advanced power management for wearable band
+        Advanced power management for wearable band
 
 📚 **References**
-Sommerville, Software Engineering, 9th ed., Pearson Education, 2011
 
-Sharma et al., Mobile‑Based Women Safety Application, IJCAT, 2025
+  Sommerville, Software Engineering, 9th ed., Pearson Education, 2011
 
-Verma et al., IoT‑Enabled Smart Safety Device, IJITST, 2024
+  Sharma et al., Mobile‑Based Women Safety Application, IJCAT, 2025
 
-Reddy & Banerjee, IoT‑Based Wearable Wrist Band, JESA, 2023
+  Verma et al., IoT‑Enabled Smart Safety Device, IJITST, 2024
 
-Google Developers – Android Bluetooth Low Energy Overview
+  Reddy & Banerjee, IoT‑Based Wearable Wrist Band, JESA, 2023
 
-Arduino Documentation – Getting Started with Arduino and BLE Modules
+  Google Developers – Android Bluetooth Low Energy Overview
+
+  Arduino Documentation – Getting Started with Arduino and BLE Modules
 
 👩‍💻 **Contributors**
-Sanjay Kumar – AI/ML & Cloud specialization
 
-Project Team – Final Year Engineering, 2026
+  Sanjay Kumar – AI/ML & Cloud specialization
+
+  Project Team – Final Year Engineering, 2026
 
 📬 **Contact**
-If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
+  If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
 
-**Email: sanjayg.022003@gmail.com**
+    **Email: sanjayg.022003@gmail.com**
 
-**LinkedIn: Sanjay Kumar (linkedin.com in Bing)**
+    **LinkedIn: Sanjay Kumar (linkedin.com in Bing)**
 
-**GitHub: sanjay200302**
+    **GitHub: sanjay200302**
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
