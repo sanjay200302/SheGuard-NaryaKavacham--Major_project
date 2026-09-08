@@ -134,7 +134,7 @@ Bluetooth → Smartphone → SMS → Emergency contacts
 📬 **Contact**
   If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
   
-      **Portfolio: https://sanjay200302.github.io/sanjay.com/**
+      Portfolio: https://sanjay200302.github.io/sanjay.com/
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
