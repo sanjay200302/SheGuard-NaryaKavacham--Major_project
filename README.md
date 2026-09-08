@@ -133,12 +133,7 @@ Bluetooth → Smartphone → SMS → Emergency contacts
 
 📬 **Contact**
   If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
-
-    **Email: sanjayg.022003@gmail.com**
-
-    **LinkedIn: Sanjay Kumar (linkedin.com in Bing)**
-
-    **GitHub: sanjay200302**
+      **Portfolio: https://sanjay200302.github.io/sanjay.com/**
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
