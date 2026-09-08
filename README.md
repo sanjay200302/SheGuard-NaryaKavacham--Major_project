@@ -133,6 +133,7 @@ Bluetooth → Smartphone → SMS → Emergency contacts
 
 📬 **Contact**
   If you’d like to connect, collaborate, or discuss opportunities, feel free to reach out:
+  
       **Portfolio: https://sanjay200302.github.io/sanjay.com/**
 
 📜 License
